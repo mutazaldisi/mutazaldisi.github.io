@@ -1,0 +1,14 @@
+
+html {
+    height: 100%;
+  }
+
+footer {
+    margin-top: auto;
+    }
+
+centered-form {
+    max-width: 600px; 
+    margin-left: auto;
+    margin-right: auto;
+    }
